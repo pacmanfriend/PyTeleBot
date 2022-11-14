@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+SQLAlchemy
+numpy
+opencv-python
+requests
+schedule
